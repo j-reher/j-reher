@@ -1,6 +1,6 @@
 # Hi, I'm @j-reher!
 
-I am a technology consultant and Ph.D. candidate in physics at the Ruhr-University Bochum.
+I am a technology consultant and Ph.D. candidate in physics based in Los Angeles, California.
 
 As a consultant, I assist my clients to extract the maximum value from their business data by analysing data for them or designing and implementing ETL and monitoring solutions.
 
