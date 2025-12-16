@@ -1,10 +1,10 @@
 # Hi, I'm @j-reher!
 
-I am a technology consultant and Ph.D. candidate in physics based in Los Angeles, California.
-
-As a consultant, I assist my clients to extract the maximum value from their business data either by analysing it for them, or by designing and implementing permanent ETL pipelines and monitoring solutions.
+I am a technology consultant and Ph.D. candidate in physics.
 
 As part of my research in the field of hadron physics, I analyzed data taken by the BESIII experiment in Beijing, China, and contributed to the construction of the upcoming <abbr title="(Anti-)Proton Annihilation in Darmstadt">PANDA</abbr> experiment by designing a process for screening a large number of components for its detector and organizing its execution.
+
+As a consultant, I assist my clients to extract the maximum value from their business data either by analysing it for them, or by designing and implementing permanent ETL pipelines and monitoring solutions.
 
 <!---
 - 👋 Hi, I’m @j-reher
